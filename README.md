@@ -2,7 +2,7 @@
 
 <ul>
   <li>Save to .txt file</li>
+  <pre><code>In Newsletter class method addNewAdressToList() use saveToJson()</code></pre>
   <li>Save to .json file</li>
 </ul>
 
-<img src="https://image.freepik.com/darmowe-psd/wytloczona-makieta-logo-na-bialym-papierze_1389-1289.jpg">
